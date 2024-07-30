@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub description for your "Word Frequency in Classic Novels" project:
-
----
-
 # Word Frequency Analysis in Classic Novels
 
 This project explores the linguistic richness of classic literature by analyzing word frequencies across several timeless novels. Utilizing Python, Jupyter Notebook, BeautifulSoup, Requests, and NLTK, we delve into the textual data to uncover intriguing patterns and insights.
@@ -76,7 +72,3 @@ This project is licensed under the MIT License.
 
 - Thanks to the online sources for providing the text data of classic novels.
 - Special thanks to the open-source community for providing the tools and libraries used in this project.
-
----
-
-Feel free to adjust any details to better match your project specifics and personal preferences.
